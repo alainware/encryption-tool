@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Huawei Sans';
+    src: url('../assets/fonts/huawei/huawei-sans-regular.ttf');
+}
+
+@font-face {
+    font-family: 'Huawei Sans Bold';
+    src: url('../assets/fonts/huawei/huawei-sans-bold.ttf');
+}
+
+.huawei-title {
+    font-family: 'Huawei Sans Bold' !important;
+}
+
+.huawei-footer-logo {
+    width: 10vh;
+    opacity: 0.5;
+}
